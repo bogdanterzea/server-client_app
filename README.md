@@ -17,7 +17,6 @@ Optional download:
 - Database soap should be coppied inside databases of wamp. 
 - Take care at all references because won't correspond. 
 
-
 ## Start project 
 - Run wampserver  
 - Run localhost/WebServiceSOAP/server.php and localhost/WebServiceSOAP/service.php 
